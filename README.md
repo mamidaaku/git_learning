@@ -1,3 +1,3 @@
 # git_learning
 This is to learn git
-Test git hub turtorial..
+Test git hub turtorial!
